@@ -9,9 +9,3 @@
 <img src="https://raw.githubusercontent.com/larocqueg/larocqueg/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/larocqueg/count.svg?"  />
-</div>
-
-###
