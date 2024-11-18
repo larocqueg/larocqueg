@@ -11,3 +11,11 @@
     <img src="https://skillicons.dev/icons?i=linux,bash,c,vim,git,github" />
   </a>
 </p>
+
+## Examples of Work
+#### Alien invasion! 
+<div align="left">
+  <a href="https://scratch.mit.edu/projects/961125462/" target="_blank">
+    <img src="https://github.com/larocquel/larocquel/blob/main/pokemonlarocque.gif" width="480">
+  </a>
+</div>
