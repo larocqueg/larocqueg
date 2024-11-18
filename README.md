@@ -5,3 +5,10 @@
 </div>
 
 ###
+
+## Skills and Experience
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,c,vim,git,github" />
+  </a>
+</p>
