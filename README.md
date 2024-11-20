@@ -12,8 +12,8 @@
   </a>
 </p>
 
-## Examples of Work
-##Alien invasion!
+## Example of Work
+>>>>Alien invasion!<<<<
 * This game is one of my very first projects that i made for CS50 course!
 <div align="middle">
   <a href="https://scratch.mit.edu/projects/961125462/" target="_blank">
