@@ -47,8 +47,7 @@
 | Final Exam  | Completed |    C     |  60/100 ✅|
 
 ---
-
-# Alien Invasion!
+## Alien Invasion!
 
 _This game is one of my very first projects that I made for the CS50 course!_
 
