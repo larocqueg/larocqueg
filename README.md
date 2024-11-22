@@ -10,7 +10,7 @@
 ## Skills and Experience
 <p align="middle">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,c,vim,git,github" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,c,vim,vscode,git,github" />
   </a>
 </p>
 
