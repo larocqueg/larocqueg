@@ -7,6 +7,11 @@
 
 ###
 
+## 42 Schools profile
+<div align="center">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/gde-la-r?1337Badge=off&UM6P=off" alt="gde-la-r's 42 stats" /></a>
+</div>
+
 ## Skills and Experience
 <p align="middle">
   <a href="https://skillicons.dev">
