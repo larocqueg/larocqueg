@@ -1,5 +1,3 @@
-<div align="left">
-  
 # <div align="left"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=100&size=30&letterSpacing=&duration=500&pause=5000&color=00FFFF&vCenter=true&width=600&lines=%24%3E+Hi,+I'm+Gabriel+La+Rocque!)
 
 <div align="center">
