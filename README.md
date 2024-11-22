@@ -34,8 +34,6 @@
 | [get_next_line](https://github.com/larocqueg/42_get_next_line.git)| Completed | C        | 100/100 ✅ |
 | [Born2beroot](https://github.com/larocqueg/42_Born_2_be_root.git)| Ongoing | Shell       | |
 
-
-
 ---
 
 # 42 Piscine 
@@ -56,7 +54,19 @@
 
 ---
 
+# 42 Piscine Exams 
+---
+## Projects
 
+| Project | Status    | Language | Score       |
+| ------- | --------  | -------- | ----------- |
+| Exam 00  | Completed |    C     |  50/100 ✅   |
+| Exam 01  | Completed |    C     |  60/100  ✅  |
+| Exam 02  | Completed |    C     |  70/100 ✅ |
+| Final Exam  | Completed |    C     |  60/100 ✅|
+ 
+
+---
 
 Alien invasion!
 * This game is one of my very first projects that i made for CS50 course!
