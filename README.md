@@ -68,8 +68,10 @@
 
 ---
 
-Alien invasion!
-* This game is one of my very first projects that i made for CS50 course!
+# Alien Invasion!
+
+_This game is one of my very first projects that I made for the CS50 course!_
+
 <div align="middle">
   <a href="https://scratch.mit.edu/projects/961125462/" target="_blank">
     <img src="https://github.com/larocqueg/larocqueg/blob/main/alien_invasion.gif" width="480">
