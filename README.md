@@ -19,7 +19,6 @@
 
 | Project | Status   | Language | Score       |
 | ------- | -------- | -------- | ----------- |
-| [Piscine Reload](https://github.com/larocqueg/42-Porto-Piscine-Reload.git) | Completed | C | 100/100 ✅ ✨ |
 | [libft](https://github.com/larocqueg/42_Libft) | Completed | C        | 125 / 100  ✅ ✨ |
 | [ft_printf](https://github.com/larocqueg/42_ft_printf.git)| Completed | C        | 100 / 100 ✅ |
 | [get_next_line](https://github.com/larocqueg/42_get_next_line.git)| Completed | C        | 100/100 ✅ |
@@ -46,6 +45,7 @@
 | Exam 01  | Completed |    C     |  60/100  ✅  |
 | Exam 02  | Completed |    C     |  70/100 ✅ |
 | Final Exam  | Completed |    C     |  60/100 ✅|
+| [Piscine Reload](https://github.com/larocqueg/42-Porto-Piscine-Reload.git) | Completed | C | 100/100 ✅ ✨ |
 
 ---
 ## Alien Invasion!
