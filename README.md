@@ -45,6 +45,7 @@
 | Exam 01  | Completed |    C     |  60/100  ✅  |
 | Exam 02  | Completed |    C     |  70/100 ✅ |
 | Final Exam  | Completed |    C     |  60/100 ✅|
+| [Piscine Reload](https://github.com/larocqueg/42-Porto-Piscine-Reload.git) | Completed | C | 100/100 ✅ ✨ |
 
 ---
 ## Alien Invasion!
