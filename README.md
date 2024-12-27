@@ -29,7 +29,7 @@
 ## Exams
 | Exam | Status | Language | Score |
 | ---- | ------ | -------- | ----- |
-| Rank02 | Done | C | 100/100 ✅ |
+| Rank02 | Completed | C | 100/100 ✅ |
 ---
 
 # 42 School Piscine 
