@@ -26,6 +26,10 @@
 | [Push_swap](https://github.com/larocqueg/42_Push_swap.git)| Ongoing... | C | ❓❓❓/100 |
 | [Minitalk]()| Ongoing... | C | ❓❓❓/100 |
 
+## Exams
+| Exam | Status | Language | Score |
+| ---- | ------ | -------- | ----- |
+| Rank02 | Done | C | 100/100 ✅ |
 ---
 
 # 42 School Piscine 
