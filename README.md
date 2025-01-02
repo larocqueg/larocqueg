@@ -31,7 +31,7 @@
 | Rank02 | Completed | C | 100/100 ✅ |
 ---
 
-# 42 School Piscine 
+# 42 School Piscine + Piscine Reload
 ---
 ## Projects
 
