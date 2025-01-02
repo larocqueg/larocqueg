@@ -46,6 +46,7 @@
 | [C06](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C06)   | Completed |    C     | 100/100 ✅ ✨ |
 | [C07](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C07)   | Completed |    C     | 60/100  ✅ |
 | [C08](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C08)   | Completed |    C     | 100/100 ✅ ✨ |
+| [Rush00](https://github.com/larocqueg/42-Porto-Piscine/tree/master/Rush00/ex00) | Completed | C | 116/100 ✅ ✨ |
 | Exam 00  | Completed |    C     |  50/100 ✅   |
 | Exam 01  | Completed |    C     |  60/100  ✅  |
 | Exam 02  | Completed |    C     |  70/100 ✅ |
