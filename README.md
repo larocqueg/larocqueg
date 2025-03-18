@@ -24,8 +24,9 @@
 | [Get_next_line](https://github.com/larocqueg/42_get_next_line.git)| Completed | C        | 100/100 ✅ |
 | [Born2beroot](https://github.com/larocqueg/42_Born_2_be_root.git)| Completed | Shell       | 100/100 ✅ |
 | [Push_swap](https://github.com/larocqueg/42_Push_swap.git)| Completed | C | 125/100 ✅ ✨ |
-| [Pipex](https://github.com/larocqueg/42_pipex) | Ongoing... | C | 100/100 ✅|
-| [So_long](https://github.com/larocqueg/42_so_long) | Ongoing... | C | ...|
+| [Pipex](https://github.com/larocqueg/42_pipex) | Completed | C | 100/100 ✅|
+| [So_long](https://github.com/larocqueg/42_so_long) | Completed | C | 100/100 ✅ |
+| [Minishell]() | ongoing... | ... |
 
 ## Exams
 | Exam | Status | Language | Score |
