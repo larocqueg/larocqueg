@@ -26,7 +26,7 @@
 | [Push_swap](https://github.com/larocqueg/42_Push_swap.git)| Completed | C | 125/100 ✅ ✨ |
 | [Pipex](https://github.com/larocqueg/42_pipex) | Completed | C | 100/100 ✅|
 | [So_long](https://github.com/larocqueg/42_so_long) | Completed | C | 100/100 ✅ |
-| [Minishell]() | ongoing... | C | ... |
+| [Minishell](https://github.com/larocqueg/42_Minishell.git) | ongoing... | C | ... |
 
 ## Exams
 | Exam | Status | Language | Score |
