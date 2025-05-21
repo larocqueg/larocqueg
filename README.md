@@ -28,7 +28,8 @@
 | [So_long](https://github.com/larocqueg/42_so_long) | Completed | C | 100/100 ✅ |
 | [Minishell](https://github.com/larocqueg/42_Minishell.git) | Completed | C & Shell | 109/100 ✅ ✨ |
 | [Philosofers](https://github.com/larocqueg/42_Philosofers) | ongoing... | C | ... |
-
+| [Pong_mlx](https://github.com/larocqueg/Pong_mlx.git) | Completed | C | side project! | 
+ 
 ## Exams
 | Exam | Status | Language | Score |
 | ---- | ------ | -------- | ----- |
