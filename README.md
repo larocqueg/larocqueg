@@ -27,8 +27,10 @@
 | [Pipex](https://github.com/larocqueg/42_pipex) | Completed | C | 100/100 ✅|
 | [So_long](https://github.com/larocqueg/42_so_long) | Completed | C | 100/100 ✅ |
 | [Minishell](https://github.com/larocqueg/42_Minishell.git) | Completed | C & Shell | 109/100 ✅ ✨ |
-| [Philosofers](https://github.com/larocqueg/42_Philosofers) | ongoing... | C | ... |
+| [Philosofers](https://github.com/larocqueg/42_Philosofers) | ongoing... | C | 100/100 ✅ |
 | [Pong_mlx](https://github.com/larocqueg/Pong_mlx.git) | Completed | C | side project! | 
+| [Cub3D](https://github.com/therappha/42_cub3D.git) | Completed | C | 100/100 ✅ |
+
  
 ## Exams
 | Exam | Status | Language | Score |
