@@ -30,7 +30,7 @@
 | [Philosofers](https://github.com/larocqueg/42_Philosofers) | Completed | C | 100/100 ✅ |
 | [Pong_mlx](https://github.com/larocqueg/Pong_mlx.git) | Completed | C | side project! | 
 | [Cub3D](https://github.com/therappha/42_cub3D.git) | Completed | C | 100/100 ✅ |
-| [CPP00]() | ongoing... | C++ | ... |
+| [CPP00](git@github.com:larocqueg/CPP.git) | ongoing... | C++ | ... |
 
 
  
