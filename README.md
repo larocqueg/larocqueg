@@ -38,6 +38,8 @@
 | Exam | Status | Language | Score |
 | ---- | ------ | -------- | ----- |
 | Rank02 | Completed | C | 100/100 ✅ |
+| Rank03 | Completed | C | 100/100  ✅ |
+| Rank04 | Completed | C | 100/100  ✅ |
 ---
 
 # 42 School Piscine + Piscine Reload
