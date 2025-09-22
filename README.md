@@ -21,13 +21,8 @@
 | ------- | -------- | -------- |
 | [Libft](https://github.com/larocqueg/42_Libft) | Completed | C        |
 | [Ft_printf](https://github.com/larocqueg/42_ft_printf.git)| Completed | C        |
-| [Get_next_line](https://github.com/larocqueg/42_get_next_line.git)| Completed | C   |     
-| [Born2beroot](https://github.com/larocqueg/42_Born_2_be_root.git)| Completed | Shell       |
-| [Push_swap](https://github.com/larocqueg/42_Push_swap.git)| Completed | C |
-| [Pipex](https://github.com/larocqueg/42_pipex) | Completed | C | 
-| [So_long](https://github.com/larocqueg/42_so_long) | Completed | C | 
+| [Get_next_line](https://github.com/larocqueg/42_get_next_line.git)| Completed | C   | 
 | [Minishell](https://github.com/larocqueg/42_Minishell.git) | Completed | C & Shell | 
-| [Philosofers](https://github.com/larocqueg/42_Philosofers) | Completed | C | 
 | [Pong_mlx](https://github.com/larocqueg/Pong_mlx.git) | Completed | C | 
 | [Cub3D](https://github.com/therappha/42_cub3D.git) | Completed | C | 
 | [CPPS](https://github.com/larocqueg/CPPS) | Completed | C++ |
