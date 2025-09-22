@@ -35,8 +35,8 @@
 
  
 ## Exams
-| Exam | Status | Language | Score |
-| ---- | ------ | -------- | ----- |
+| Exam | Status | Language |
+| ---- | ------ | -------- |
 | Rank02 | Completed | C |
 | Rank03 | Completed | C |
 | Rank04 | Completed | C |
@@ -46,8 +46,8 @@
 ---
 ## Projects
 
-| Project |  Status   | Language |   Score    |
-| ------- | --------  | -------- | -----------|
+| Project |  Status   | Language |
+| ------- | --------  | -------- |
 | [C00](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C00)   | Completed |    C     |
 | [C01](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C01)   | Completed |    C     |
 | [C02](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C02)   | Completed |    C     |
