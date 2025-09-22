@@ -17,29 +17,29 @@
 ---
 ## Projects
 
-| Project | Status   | Language | Score       |
-| ------- | -------- | -------- | ----------- |
-| [Libft](https://github.com/larocqueg/42_Libft) | Completed | C        | 125 / 100  ✅ ✨ |
-| [Ft_printf](https://github.com/larocqueg/42_ft_printf.git)| Completed | C        | 100 / 100 ✅ |
-| [Get_next_line](https://github.com/larocqueg/42_get_next_line.git)| Completed | C        | 100/100 ✅ |
-| [Born2beroot](https://github.com/larocqueg/42_Born_2_be_root.git)| Completed | Shell       | 100/100 ✅ |
-| [Push_swap](https://github.com/larocqueg/42_Push_swap.git)| Completed | C | 125/100 ✅ ✨ |
-| [Pipex](https://github.com/larocqueg/42_pipex) | Completed | C | 100/100 ✅|
-| [So_long](https://github.com/larocqueg/42_so_long) | Completed | C | 100/100 ✅ |
-| [Minishell](https://github.com/larocqueg/42_Minishell.git) | Completed | C & Shell | 109/100 ✅ ✨ |
-| [Philosofers](https://github.com/larocqueg/42_Philosofers) | Completed | C | 100/100 ✅ |
-| [Pong_mlx](https://github.com/larocqueg/Pong_mlx.git) | Completed | C | side project! | 
-| [Cub3D](https://github.com/therappha/42_cub3D.git) | Completed | C | 100/100 ✅ |
-| [CPPS](https://github.com/larocqueg/CPPS) | ongoing... | C++ | ... |
+| Project | Status   | Language |
+| ------- | -------- | -------- |
+| [Libft](https://github.com/larocqueg/42_Libft) | Completed | C        |
+| [Ft_printf](https://github.com/larocqueg/42_ft_printf.git)| Completed | C        |
+| [Get_next_line](https://github.com/larocqueg/42_get_next_line.git)| Completed | C   |     
+| [Born2beroot](https://github.com/larocqueg/42_Born_2_be_root.git)| Completed | Shell       |
+| [Push_swap](https://github.com/larocqueg/42_Push_swap.git)| Completed | C |
+| [Pipex](https://github.com/larocqueg/42_pipex) | Completed | C | 
+| [So_long](https://github.com/larocqueg/42_so_long) | Completed | C | 
+| [Minishell](https://github.com/larocqueg/42_Minishell.git) | Completed | C & Shell | 
+| [Philosofers](https://github.com/larocqueg/42_Philosofers) | Completed | C | 
+| [Pong_mlx](https://github.com/larocqueg/Pong_mlx.git) | Completed | C | 
+| [Cub3D](https://github.com/therappha/42_cub3D.git) | Completed | C | 
+| [CPPS](https://github.com/larocqueg/CPPS) | Complete | C++ |
 
 
  
 ## Exams
 | Exam | Status | Language | Score |
 | ---- | ------ | -------- | ----- |
-| Rank02 | Completed | C | 100/100 ✅ |
-| Rank03 | Completed | C | 100/100  ✅ |
-| Rank04 | Completed | C | 100/100  ✅ |
+| Rank02 | Completed | C |
+| Rank03 | Completed | C |
+| Rank04 | Completed | C |
 ---
 
 # 42 School Piscine + Piscine Reload
@@ -48,21 +48,21 @@
 
 | Project |  Status   | Language |   Score    |
 | ------- | --------  | -------- | -----------|
-| [C00](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C00)   | Completed |    C     | 85/100  ✅ |
-| [C01](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C01)   | Completed |    C     | 100/100 ✅ ✨ |
-| [C02](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C02)   | Completed |    C     | 75/100  ✅ |
-| [C03](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C03)   | Completed |    C     | 75/100  ✅ |
-| [C04](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C04)   | Completed |    C     | 70/100  ✅ |
-| [C05](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C05)   | Completed |    C     | 80/100  ✅ |
-| [C06](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C06)   | Completed |    C     | 100/100 ✅ ✨ |
-| [C07](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C07)   | Completed |    C     | 60/100  ✅ |
-| [C08](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C08)   | Completed |    C     | 100/100 ✅ ✨ |
-| [Rush00](https://github.com/larocqueg/42-Porto-Piscine/tree/master/Rush00/ex00) | Completed | C | 116/100 ✅ ✨ |
-| Exam 00  | Completed |    C     |  50/100 ✅   |
-| Exam 01  | Completed |    C     |  60/100  ✅  |
-| Exam 02  | Completed |    C     |  70/100 ✅ |
-| Final Exam  | Completed |    C     |  60/100 ✅|
-| [Piscine Reload](https://github.com/larocqueg/42-Porto-Piscine-Reload.git) | Completed | C | 100/100 ✅ ✨ |
+| [C00](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C00)   | Completed |    C     |
+| [C01](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C01)   | Completed |    C     |
+| [C02](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C02)   | Completed |    C     |
+| [C03](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C03)   | Completed |    C     |
+| [C04](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C04)   | Completed |    C     |
+| [C05](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C05)   | Completed |    C     |
+| [C06](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C06)   | Completed |    C     |
+| [C07](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C07)   | Completed |    C     |
+| [C08](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C08)   | Completed |    C     |
+| [Rush00](https://github.com/larocqueg/42-Porto-Piscine/tree/master/Rush00/ex00) | Completed | C |
+| Exam 00  | Completed |    C     |
+| Exam 01  | Completed |    C     |
+| Exam 02  | Completed |    C     |
+| Final Exam  | Completed |    C     |
+| [Piscine Reload](https://github.com/larocqueg/42-Porto-Piscine-Reload.git) | Completed | C |
 
 ---
 ## Alien Invasion!
