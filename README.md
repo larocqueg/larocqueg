@@ -30,7 +30,7 @@
 | [Philosofers](https://github.com/larocqueg/42_Philosofers) | Completed | C | 
 | [Pong_mlx](https://github.com/larocqueg/Pong_mlx.git) | Completed | C | 
 | [Cub3D](https://github.com/therappha/42_cub3D.git) | Completed | C | 
-| [CPPS](https://github.com/larocqueg/CPPS) | Complete | C++ |
+| [CPPS](https://github.com/larocqueg/CPPS) | Completed | C++ |
 
 
  
