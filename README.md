@@ -37,28 +37,6 @@
 | Rank04 | Completed | C |
 ---
 
-# 42 School Piscine + Piscine Reload
----
-## Projects
-
-| Project |  Status   | Language |
-| ------- | --------  | -------- |
-| [C00](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C00)   | Completed |    C     |
-| [C01](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C01)   | Completed |    C     |
-| [C02](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C02)   | Completed |    C     |
-| [C03](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C03)   | Completed |    C     |
-| [C04](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C04)   | Completed |    C     |
-| [C05](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C05)   | Completed |    C     |
-| [C06](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C06)   | Completed |    C     |
-| [C07](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C07)   | Completed |    C     |
-| [C08](https://github.com/larocqueg/42-Porto-Piscine/tree/master/C08)   | Completed |    C     |
-| [Rush00](https://github.com/larocqueg/42-Porto-Piscine/tree/master/Rush00/ex00) | Completed | C |
-| Exam 00  | Completed |    C     |
-| Exam 01  | Completed |    C     |
-| Exam 02  | Completed |    C     |
-| Final Exam  | Completed |    C     |
-| [Piscine Reload](https://github.com/larocqueg/42-Porto-Piscine-Reload.git) | Completed | C |
-
 ---
 ## Alien Invasion!
 
