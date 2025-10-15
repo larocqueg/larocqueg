@@ -26,6 +26,7 @@
 | [Pong_mlx](https://github.com/larocqueg/Pong_mlx.git) | Completed | C | 
 | [Cub3D](https://github.com/therappha/42_cub3D.git) | Completed | C | 
 | [CPPS 00/04](https://github.com/larocqueg/CPPS) | Completed | C++ |
+| [IRC](https://github.com/therappha/ft_irc) | Completed | C++|
 
 
  
