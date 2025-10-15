@@ -25,7 +25,7 @@
 | [Minishell](https://github.com/larocqueg/42_Minishell.git) | Completed | C & Shell | 
 | [Pong_mlx](https://github.com/larocqueg/Pong_mlx.git) | Completed | C | 
 | [Cub3D](https://github.com/therappha/42_cub3D.git) | Completed | C | 
-| [CPPS](https://github.com/larocqueg/CPPS) | Completed | C++ |
+| [CPPS 00/04](https://github.com/larocqueg/CPPS) | Completed | C++ |
 
 
  
