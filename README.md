@@ -37,7 +37,7 @@
 | Rank02 | Completed | C |
 | Rank03 | Completed | C |
 | Rank04 | Completed | C |
-| Rank05 | ... | C |
+| Rank05 | ... | C/C++ |
 ---
 
 ---
