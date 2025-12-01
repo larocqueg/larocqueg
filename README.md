@@ -27,7 +27,8 @@
 | [Cub3D](https://github.com/therappha/42_cub3D.git) | Completed | C | 
 | [CPPS 00/04](https://github.com/larocqueg/CPPS-00-04) | Completed | C++ |
 | [IRC](https://github.com/therappha/ft_irc) | Completed | C++|
-| [CPPS 05/09](https://github.com/larocqueg/CPPS-05-09) | Ongoing... | C++ |
+| [CPPS 05/09](https://github.com/larocqueg/CPPS-05-09) | Completed | C++ |
+| [Inception](https://github.com/larocqueg/Inception) | ongoing... | Shell |
 
 
  
