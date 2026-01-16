@@ -43,6 +43,7 @@
 ---
 
 ### Side project:
+[Mario](https://github.com/therappha/42_so_long_pro.git)
 [Pong_mlx](https://github.com/larocqueg/Pong_mlx.git)
 
 ---
