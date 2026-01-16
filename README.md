@@ -19,7 +19,6 @@
 
 | Project | Status   | Language |
 | ------- | -------- | -------- |
-| [Pong_mlx](https://github.com/larocqueg/Pong_mlx.git) | Completed | C | 
 | [IRC](https://github.com/therappha/ft_irc) | Completed | C++|
 | [CPPS 05/09](https://github.com/larocqueg/CPPS-05-09) | Completed | C++ |
 | [CPPS 00/04](https://github.com/larocqueg/CPPS-00-04) | Completed | C++ |
@@ -31,6 +30,9 @@
 | [Get_next_line](https://github.com/larocqueg/42_get_next_line.git)| Completed | C   | 
 | [Ft_printf](https://github.com/larocqueg/42_ft_printf.git)| Completed | C        |
 | [Libft](https://github.com/larocqueg/42_Libft) | Completed | C        |
+
+Side project:
+| [Pong_mlx](https://github.com/larocqueg/Pong_mlx.git) | Completed | C | 
 
 
 
