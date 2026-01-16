@@ -32,12 +32,7 @@
 | [Ft_printf](https://github.com/larocqueg/42_ft_printf.git)| Completed | C        |
 | [Libft](https://github.com/larocqueg/42_Libft) | Completed | C        |
 
-Side project:
-| [Pong_mlx](https://github.com/larocqueg/Pong_mlx.git) | Completed | C | 
 
-
-
- 
 ## Exams
 | Exam | Status | Language |
 | ---- | ------ | -------- |
@@ -46,6 +41,9 @@ Side project:
 | Rank04 | Completed | C |
 | Rank05 | ... | C/C++ |
 ---
+
+### Side project:
+[Pong_mlx](https://github.com/larocqueg/Pong_mlx.git)
 
 ---
 ## Alien Invasion!
