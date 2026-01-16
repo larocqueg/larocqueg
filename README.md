@@ -18,7 +18,7 @@
 ## Projects
 
 | Project | Status   | Language |
-| ------- | -------- | -------- |
+| :-------: | :--------: | :--------: |
 | [IRC](https://github.com/therappha/ft_irc) | Completed | C++|
 | [CPPS 05/09](https://github.com/larocqueg/CPPS-05-09) | Completed | C++ |
 | [CPPS 00/04](https://github.com/larocqueg/CPPS-00-04) | Completed | C++ |
@@ -35,18 +35,17 @@
 
 ## Exams
 | Exam | Status | Language |
-| ---- | ------ | -------- |
+| :----: | :------: | :--------: |
 | Rank02 | Completed | C |
 | Rank03 | Completed | C |
 | Rank04 | Completed | C |
-| Rank05 | ... | C/C++ |
----
+| Rank05 | ... | C++ |
 
-### Side project:
----
-| [Mario](https://github.com/therappha/42_so_long_pro.git) |
-| [Pong_mlx](https://github.com/larocqueg/Pong_mlx.git) |
----
+## Side projects: 
+| Name | Language |
+| :----: | :--------: |
+| [Mario](https://github.com/therappha/42_so_long_pro.git) | C |
+| [Pong_mlx](https://github.com/larocqueg/Pong_mlx.git) | C |
 
 ---
 ## Alien Invasion!
