@@ -27,8 +27,8 @@
 | [Philosophers](https://github.com/larocqueg/42_Philosophers.git) | Completed | C |
 | [Inception](https://github.com/larocqueg/42_Inception) | Completed | Docker & Shell |
 | [Pipex](https://github.com/larocqueg/42_pipex)| Completed | C        |
-| [Get_next_line](https://github.com/larocqueg/42_get_next_line.git)| Completed | C   |
 | [So_long](https://github.com/larocqueg/42_so_long.git)| Completed | C |
+| [Get_next_line](https://github.com/larocqueg/42_get_next_line.git)| Completed | C   |
 | [Ft_printf](https://github.com/larocqueg/42_ft_printf.git)| Completed | C        |
 | [Libft](https://github.com/larocqueg/42_Libft) | Completed | C        |
 
