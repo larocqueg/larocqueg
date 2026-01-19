@@ -40,7 +40,7 @@
 ## Side projects: 
 | Name | Language |
 | :----: | :--------: |
-| [Mario](https://github.com/therappha/42_so_long_pro.git) | C |
+| [Mario](https://github.com/larocqueg/Mario_MLX.git) | C |
 | [Pong_mlx](https://github.com/larocqueg/Pong_mlx.git) | C |
 
 ---
