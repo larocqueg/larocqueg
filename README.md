@@ -41,7 +41,7 @@
 ## Side projects: 
 | Name | Language |
 | :----: | :--------: |
-| [Mario](https://github.com/larocqueg/Mario_MLX.git) | C |
+| [Mario_mlx](https://github.com/larocqueg/Mario_MLX.git) | C |
 | [Pong_mlx](https://github.com/larocqueg/Pong_mlx.git) | C |
 
 ---
