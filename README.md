@@ -1,6 +1,8 @@
-# <div align="left"> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=100&size=30&letterSpacing=&duration=500&pause=5000&color=1E90FF&vCenter=true&width=600&lines=%24%3E+Hello,+I'm+Gabriel+La+Rocque!🐧)
+Hi, I'm Gabriel. I’m a software developer driven by curiosity. I love picking apart how systems work and building projects from scratch. I’m a big believer in learning by doing, and I’m constantly looking for the next puzzle to solve.
 
-###
+📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-aguiar-3b0846380/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriellarocque43@gmail.com)
 
 <p align="middle">
   <a href="https://skillicons.dev">
