@@ -8,7 +8,7 @@ Hi, I'm Gabriel. I’m a software developer driven by curiosity. I love picking 
 
 <p align="middle">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,python,django,react,vim,neovim,vscode,git,github,docker,docker" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,python,django,react,vim,neovim,vscode,git,github,docker" />
   </a>
 </p>
 
